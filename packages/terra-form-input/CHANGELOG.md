@@ -8,6 +8,7 @@ Unreleased
 
 ### Fixed
 * Dev site tests pages adjusted to uniformly use caretColor
+* Dev site test for maxWidth prop
 
 1.30.0 - (November 13, 2018)
 ------------------
